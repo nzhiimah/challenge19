@@ -37,6 +37,7 @@ Result :
 <img width="553" height="190" alt="Screenshot 2026-05-10 160329" src="https://github.com/user-attachments/assets/c8790e11-47e1-4948-8a9f-2e531490fc4b" />
 <br>
 
+- RPC service is active and available for enumeration.
 ---
 3. Enumerate RPC Services
 
